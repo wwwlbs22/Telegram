@@ -158,7 +158,7 @@ python3 -m nexichat
 
 ## 👨‍💻 Developer
 
-Created with ❤️ by [DAXX](https://t.me/Imeshu)
+Created with ❤️ by [DAXX](https://t.me/unexceo)
 
 ## 📞 Support
 
